@@ -52,5 +52,5 @@ class TestFacebook():
     def findeMyFriends(self, driver):
          linkToMyProfile = driver.find_element_by_partial_link_text("Друзья").click()
 
-
+######################################################################################
 # endregion
